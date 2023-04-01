@@ -23,4 +23,3 @@ for (int j = 0; j < size; j++)
 }
 
 Console.WriteLine();
-PrintArray(arrayFinal);
